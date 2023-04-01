@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**RUPESH1439/RUPESH1439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rupesh Shrestha and I'm a highly skilled full-stack software engineer with over three and a half years of experience architecting and developing robust and scalable web and mobile applications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I’m currently learning AWS
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: rupesh.shrestha96742@gmail.com
+- 😄 Pronouns: He/Him
+
+#### Latest works
+
+- Todo App (ChakraUI | Zustand | Vite)
+https://todo-zustand-tawny.vercel.app/
+
+
+#### Currently working
+
+- Portfolio Website
+- JSON to typescript types(interface)
