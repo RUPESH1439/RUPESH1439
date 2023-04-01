@@ -6,7 +6,6 @@ I'm Rupesh Shrestha and I'm a highly skilled full-stack software engineer with o
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about Fullstack(web/mobile) development
 - 📫 How to reach me: rupesh.shrestha96742@gmail.com
-- 😄 Pronouns: He/Him
 
 #### Latest works
 
