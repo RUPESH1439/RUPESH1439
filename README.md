@@ -10,7 +10,7 @@ I'm Rupesh Shrestha and I'm a highly skilled full-stack software engineer with o
 
 #### Latest works
 
-- Todo App (ChakraUI | Zustand | Vite)
+- Todo App (React | ChakraUI | Zustand | Vite | Vercel)
 https://todo-zustand-tawny.vercel.app/
 
 
